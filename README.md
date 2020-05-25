@@ -1,5 +1,7 @@
 # MaskVi
 
+Mask detection with opencv
+
 Demo video: https://youtu.be/S0bw1w5RFR0
 
 Explanation video: https://youtu.be/RM5suMFEZY4
